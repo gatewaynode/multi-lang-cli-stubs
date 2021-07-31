@@ -1,0 +1,8 @@
+nodejs/node_modules
+nodejs/node_modules/*
+python/env
+python/env/*
+python/.vscode
+python/.vscode/*
+rust/target
+rust/target/*
