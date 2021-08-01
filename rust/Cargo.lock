@@ -219,6 +219,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "cli-stub"
+version = "0.1.0"
+dependencies = [
+ "aws-sdk-dynamodb",
+ "clap",
+ "tokio",
+]
+
+[[package]]
 name = "core-foundation"
 version = "0.9.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -724,15 +733,6 @@ dependencies = [
  "untrusted",
  "web-sys",
  "winapi",
-]
-
-[[package]]
-name = "rust"
-version = "0.1.0"
-dependencies = [
- "aws-sdk-dynamodb",
- "clap",
- "tokio",
 ]
 
 [[package]]

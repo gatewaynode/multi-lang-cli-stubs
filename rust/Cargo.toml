@@ -1,5 +1,5 @@
 [package]
-name = "rust"
+name = "cli-stub"
 version = "0.1.0"
 authors = ["Gatewaynode <44749714+gatewaynode@users.noreply.github.com>"]
 edition = "2018"
