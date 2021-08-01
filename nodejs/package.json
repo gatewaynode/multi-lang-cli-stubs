@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "8.1.0"
+    "aws-sdk": "^2.958.0",
+    "commander": "8.1.0",
+    "uuid": "^3.3.2"
   }
 }
